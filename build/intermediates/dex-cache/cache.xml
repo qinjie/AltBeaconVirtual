@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="89e6f18742cf9f7aba490a2d8c0bd49aa5d14f3f">
+        <dex dex="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b883e2cea950e5492fd3258e966e5ced9550ab31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zqi2/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_a8e36a16237de751a6b698fe763737ee5267bdc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aed21d810a29360b50f6c5805611e64888ed4719">
+        <dex dex="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b84b72a180b81d670bd4ca762d1cec2ae20f0141/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_902ab2d7030d10d8d41f088ca4369356e9374d5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_62cc976031fe3373e044c1e70a024dde819e511b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_5be23b062230886014ae492bf0b12194a3e169cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_733f99fed1fa25fdd5a1a0f2a403d0f392beb527/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_db3db211353131fb05bc3e104b238b43f6ce81eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_859493ebe63fdd15f6fc3555b900c0f08728fa3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_1c945fcced004971ba2247ae156587bebde5d756/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_ee51720e3678afb5723cc11187bf60499370534f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_a9eef8936ec118202395ac25fadd3623611087af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_bea5d53d8bf946ecfa0672c5f35fd628dea9e055/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_36e9868a718e764d721d504675389497b12f01b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_fb1cf11dbe6344d7572ab686b123c2ded1cd91c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_90057289cc03a412857bf3a8c4e0a67924ad0d6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.9.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1c4132dd2d386a819199b7e738c4d6e60897670">
+        <dex dex="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.altbeacon-android-beacon-library-2.9.2_7796192306b22eeaef5d524afc4ee36089136427/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/zqi2/Dropbox/ProjectAndroidBeacon/VirtualBeaconOne/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_36062ba9644b7e196467877187642d6446e68764/classes.dex" />
+    </item>
+
+</items>
